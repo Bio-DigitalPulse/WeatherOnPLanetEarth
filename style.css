@@ -1,0 +1,11 @@
+
+.navbar-brand{
+    font-size: 40px !important;
+    padding: 0px;
+}
+
+#historylist li:hover {
+    font-weight: bold;
+    color: white;
+    background-color: var(--primary);
+}
